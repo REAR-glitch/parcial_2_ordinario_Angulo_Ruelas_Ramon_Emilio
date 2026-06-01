@@ -45,12 +45,28 @@
     color: black;
     font-size: 30px;
 }
+ form {
+    background-color: aliceblue;
+    padding: 100px; 
+    margin: left;
+    text-align: left;
+}
 
-
-<input type="text">{ 
+input { 
 
     width: 10;
-    height: 10;
+    height: 100%;
+
+
+}
+
+button  { 
+
+
+background-color: rgb(7, 42, 108);
+color: white;
+width: 150px;
+
 
 
 }
