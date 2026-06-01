@@ -1,32 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .menu{
     width: 80%;
     border-collapse: collapse;
@@ -47,15 +19,18 @@
 }
  form {
     background-color: aliceblue;
-    padding: 100px; 
+    padding: 10px; 
     margin: left;
     text-align: left;
+    width: 300px;
 }
 
-input { 
 
-    width: 10;
-    height: 100%;
+
+input [type="text"]{
+
+height: 120%;
+
 
 
 }
@@ -63,7 +38,7 @@ input {
 button  { 
 
 
-background-color: rgb(7, 42, 108);
+background-color: rgb(7, 51, 131);
 color: white;
 width: 150px;
 
