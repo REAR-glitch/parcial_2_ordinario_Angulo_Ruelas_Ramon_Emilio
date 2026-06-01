@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.menu{
+    width: 80%;
+    border-collapse: collapse;
+}
+
+.menu td{
+    width: 20%;
+    text-align: center;
+    background-color: #ac7426;
+    border: 2px solid #000000;
+    padding: 15px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+
+<input type="text">{ 
+
+    width: 10;
+    height: 10;
+
+
+}
